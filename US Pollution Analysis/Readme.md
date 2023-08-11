@@ -149,21 +149,22 @@ NO₂ is an intermediate in the industrial synthesis of nitric acid, millions of
 
 ## Conclusion 
 1.	Trends in AQI:
- •	There is a consistent trend of decreasing AQI values for CO2, O3, SO2, and NO2 between 2006 and 2010. This suggests potential improvements in air quality 
-    during this period.
-•	  The steepest decline in AQI values was observed for SO2, with a decrease of 48.50% between 2006 and 2010.
+There is a consistent trend of decreasing AQI values for CO2, O3, SO2, and NO2 between 2006 and 2010. This suggests potential improvements in air quality 
+during this period.
+The steepest decline in AQI values was observed for SO2, with a decrease of 48.50% between 2006 and 2010.
 
 2.	Geographical Disparities:
- •	The city of Mexicali consistently had the highest AQI values for both CO2 and O3, while the city of Phoenix had the highest AQI value for NO2. This indicates 
-    localized pollution hotspots.
- •	The states of California and Pennsylvania consistently had the highest AQI values across multiple pollutants. This might suggest higher levels of 
-    industrialization or urbanization in these states.
-4.	California's Dominance:
- •	California consistently accounted for a significant portion of the total AQI across multiple pollutants (CO2, O3, NO2), ranging from 47.03% to 49.92%. This 
-    highlights the state's substantial contribution to air pollution levels in the dataset.
-5.	Consistency in Decreases:
- •	Both CO2 and NO2 AQI values started trending down in 2006, and there was a decrease in their maximum AQI values by 66.00% and 6.96% respectively over a span 
-    of 4 years. This might indicate the effectiveness of interventions aimed at reducing these pollutants
+The city of Mexicali consistently had the highest AQI values for both CO2 and O3, while the city of Phoenix had the highest AQI value for NO2. This indicates 
+localized pollution hotspots.
+The states of California and Pennsylvania consistently had the highest AQI values across multiple pollutants. This might suggest higher levels of 
+industrialization or urbanization in these states.
+
+3.	California's Dominance:
+California consistently accounted for a significant portion of the total AQI across multiple pollutants (CO2, O3, NO2), ranging from 47.03% to 49.92%. This 
+highlights the state's substantial contribution to air pollution levels in the dataset.
+
+4.  Consistency in Decreases:
+Both CO2 and NO2 AQI values started trending down in 2006, and there was a decrease in their maximum AQI values by 66.00% and 6.96% respectively over a span  of 4 years. This might indicate the effectiveness of interventions aimed at reducing these pollutants
 
 
 
