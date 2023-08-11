@@ -162,7 +162,7 @@ NO₂ is an intermediate in the industrial synthesis of nitric acid, millions of
  •	California consistently accounted for a significant portion of the total AQI across multiple pollutants (CO2, O3, NO2), ranging from 47.03% to 49.92%. This 
     highlights the state's substantial contribution to air pollution levels in the dataset.
 5.	Consistency in Decreases:
-•	  Both CO2 and NO2 AQI values started trending down in 2006, and there was a decrease in their maximum AQI values by 66.00% and 6.96% respectively over a span 
+ •	Both CO2 and NO2 AQI values started trending down in 2006, and there was a decrease in their maximum AQI values by 66.00% and 6.96% respectively over a span 
     of 4 years. This might indicate the effectiveness of interventions aimed at reducing these pollutants
 
 
