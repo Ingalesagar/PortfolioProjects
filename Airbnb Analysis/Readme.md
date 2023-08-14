@@ -37,24 +37,52 @@ The following Power BI features were incorporated:
 
 ## Modelling
 ![](https://github.com/Ingalesagar/PortfolioProjects/blob/main/Airbnb%20Analysis/Modelling.png)
-
 ## Features
 1.	Created table of Count of reviews per month.
 2.	Show total room types using the table.
 3.	Find the total number of shared rooms, private rooms, and entire homes/apt.
 4.	Created a slicer for dates to show the last reviewed information.
 5.	The prices for each neighborhood group.
-6.	Created a table for the host to check the count of properties been listed for each neighbourhood group.
+6.	Created a table for the host to check the count of properties listed for each neighborhood group.
 
 ## Analysis
 **Report 1**
 ![](https://github.com/Ingalesagar/PortfolioProjects/blob/main/Airbnb%20Analysis/Report%201.png)
-
-
+-	Manhattan has the maximum number of properties listed in the neighborhood group.
+-	Host Michael has the maximum number of properties listed.
+-	The average price of properties is $152.2.
+-	Entire homes and apartments have the most preferred room type in every neighborhood group.
+-	Entire home/apt, Private room has 366 available rooms and shared room has 232.
+-	Room near JFK queen bed property has the maximum number of reviews.
+-	July has 830 total reviews higher than other months.
 
 
 
 **Report 2**
 ![](https://github.com/Ingalesagar/PortfolioProjects/blob/main/Airbnb%20Analysis/Report%202.png)
+The total number of shared rooms is 602, the Private room is 12.78k and the Entire home/Apartment is 14.30k.
+-	The following prices for each neighborhoods group are:
+- Manhattan has 12358
+- Brooklyn has 11827
+- Queens has 2809
+- Bronx has 528
+- Staten Island has 158
 
+
+## Conclusion
+- In conclusion, the analysis of the provided data reveals several interesting insights about the property listings in New York City's different neighborhood 
+  groups. Manhattan emerges as the leading neighborhood group with the highest number of properties listed, signifying its popularity among hosts and travelers 
+  alike. Host Michael stands out with the maximum number of listed properties, demonstrating his active engagement in the hospitality industry.
+
+- The average property price of $152.2 indicates the general cost of accommodation, offering potential visitors a glimpse into the pricing landscape. Remarkably, 
+  the preference for "Entire home" and "Apartment" room types is consistent across all neighborhood groups, showcasing the appeal of having private and self- 
+  contained accommodations.
+
+- The month of July garners the highest review count, totaling 830, surpassing reviews received in other months. The distribution of room types reveals that shared 
+  rooms, private rooms, and entire home/apartment options are present in the numbers of 602, 12.78k, and 14.30k respectively, catering to various preferences.
+  Additionally, the provided pricing data for each neighborhood group showcases diverse price points, with Manhattan leading at 12358, followed closely by Brooklyn 
+  at 11827, Queens at 2809, Bronx at 528, and Staten Island at 158.
+
+- Overall, this comprehensive analysis illuminates the dynamics of New York City's property rental landscape, shedding light on preferences, trends, and 
+  significant contributors, which can greatly assist both hosts and travelers in making informed decisions.
 
